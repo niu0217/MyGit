@@ -10,7 +10,7 @@ int main()
     int a = 0;
     int b = 34;
     int c = 13;
-    int d = 100;
+    int d = 200;
     cout << "hello world" << endl;
     print_good();
     print_nihao();

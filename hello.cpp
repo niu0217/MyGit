@@ -8,7 +8,7 @@ void print_byebye();
 int main()
 {
     int a = 0;
-    int b = 12;
+    int b = 34;
     int c = 13;
     int d = 14;
     cout << "hello world" << endl;

@@ -15,4 +15,5 @@ int main()
     print_good();
     print_nihao();
     print_byebye();
+    cout<<"niu0217添加文件"<<endl;
 }

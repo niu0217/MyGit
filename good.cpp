@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void print_good()
 {
-    cout << "I am good" << endl;
-    cout << "bye bye" << endl;
+    cout << "good" << endl;
 }

@@ -1,15 +1,18 @@
 #include <iostream>
 using namespace std;
 
+void print_good();
+void print_nihao();
+void print_byebye();
+
 int main()
 {
     int a = 0;
     int b = 12;
     int c = 13;
     int d = 14;
-    cin >> a;
-    cout << a << endl;
     cout << "hello world" << endl;
-    cout << "nihao" << endl;
-    cout << d << endl;
+    print_good();
+    print_nihao();
+    print_byebye();
 }

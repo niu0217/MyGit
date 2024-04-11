@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void print_nihao()
 {
     cout << "nihao" << endl;
 }

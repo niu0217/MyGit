@@ -14,6 +14,7 @@ int main()
     cout << "hello world" << endl;
     print_good();
     print_nihao();
-    print_byebye();
-    cout<<"niu0217添加文件"<<endl;
+    print_nihao();
+    cout << "niu0217添加文件" << endl;
+    cout << "分支添加内容" << endl;
 }
